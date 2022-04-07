@@ -1,5 +1,3 @@
-JAVASCRIPT:
-
 function Solution(A)
 {
     let brushCount = 0;
